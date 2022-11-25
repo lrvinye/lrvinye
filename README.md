@@ -2,6 +2,6 @@
 ### 👨🏻‍💻 Web Full-stack Developer
 
 
-- 🔭 I’m currently working on Cherryez (a team focus on open source web infra software)
+- 🔭 I’m currently working on some amazing open source projects (about web infra software)
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=lrvinye&show_icons=true&theme=vue-dark&hide=stars,issues)
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=riccox&show_icons=true&theme=vue-dark&hide=stars,issues)
