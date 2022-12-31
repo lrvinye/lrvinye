@@ -15,7 +15,7 @@ Moreover, I also work for my personal amazing open source products which focus o
 My aim is to bring across your message and data in the most creative way.
 
 * 🌍  I'm based in China
-* 🖥️  See my portfolio at [My Resume](http://www.riccox.com/resume)
+* 🖥️  See my portfolio at [Devport](https://devport.me/riccoxie)
 * ✉️  You can contact me at [ricco@riccox.com](mailto:ricco@riccox.com)
 * 🚀  I'm currently working on [My Personal Projects](http://www.riccox.com/projects)
 * 🧠  I'm learning cross-platform mobile APP development
