@@ -17,7 +17,7 @@ My aim is to bring across your message and data in the most creative way.
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [Riccox](https://www.riccox.com)
 * ✉️  You can contact me at [ricco@riccox.com](mailto:ricco@riccox.com)
-* 🚀  I'm currently working on [My Projects](http://www.riccox.com/projects)
+* 🚀  I'm currently working on [My Projects](http://www.riccox.com/matrix)
 * 🧠  I'm learning cross-platform mobile APP development
 * 🤝  I'm open to collaborating on interesting web-infra open source software
 
