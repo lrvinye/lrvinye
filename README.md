@@ -27,7 +27,11 @@ src="https://img.shields.io/github/followers/riccox?logo=github&style=for-the-ba
 My GitHub Stats
 ===============
 
-<a href="http://www.github.com/riccox"><img src="https://github-readme-stats.vercel.app/api?username=riccox&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="riccox's GitHub stats" /></a>
+<div>
+  <a href="https://github.com/riccox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riccox&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccox&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 <a href="http://www.github.com/riccox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riccox&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
