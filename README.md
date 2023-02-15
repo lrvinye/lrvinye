@@ -21,9 +21,6 @@ My aim is to bring across your message and data in the most creative way.
 * 🧠  I'm learning cross-platform mobile APP development
 * 🤝  I'm open to collaborating on interesting web-infra open source software
 
-<a href="https://www.github.com/riccox" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/riccox?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
-
 My GitHub Stats
 ===============
 
@@ -33,16 +30,14 @@ My GitHub Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccox&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<a href="http://www.github.com/riccox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riccox&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/riccox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riccox&theme=midnight-purple" /></a>
 
-<a href="http://www.github.com/riccox"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=riccox&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/riccox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccox&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/riccox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccox&langs_count=10&theme=midnight-purple&locale=en" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/riccox/meilisearch-ui" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=meilisearch-ui&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/riccox/sira" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=sira&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/riccox/meilisearch-ui" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=meilisearch-ui&theme=midnight-purple&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/riccox/sira" align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=sira&theme=midnight-purple&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br />
 
