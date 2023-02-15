@@ -32,8 +32,6 @@ My GitHub Stats
 
 <a href="http://www.github.com/riccox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riccox&theme=midnight-purple" /></a>
 
-<a href="https://github.com/riccox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccox&langs_count=10&theme=midnight-purple&locale=en" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/riccox/meilisearch-ui" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=meilisearch-ui&theme=midnight-purple&locale=en" /></a></div>
