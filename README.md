@@ -35,7 +35,7 @@ My GitHub Stats
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/riccox/meilisearch-ui" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=meilisearch-ui&theme=midnight-purple&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/riccox/sira" align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=sira&theme=midnight-purple&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/riccoxlab/sira" align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=riccoxlab&repo=sira&theme=midnight-purple&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br />
 
