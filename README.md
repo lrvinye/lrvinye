@@ -15,9 +15,9 @@ Moreover, I also work for my personal amazing open source products which focus o
 My aim is to bring across your message and data in the most creative way.
 
 * 🌍  I'm based in China
-* 🖥️  See my portfolio at [Riccox](https://www.riccox.com)
+* 🖥️  See my home page at [Riccox](https://www.riccox.com)
 * ✉️  You can contact me at [ricco@riccox.com](mailto:ricco@riccox.com)
-* 🚀  I'm currently working on [My Projects](http://www.riccox.com/matrix)
+* 🚀  I'm currently working on [My Riccox Lab](http://lab.riccox.com)
 * 🧠  I'm learning cross-platform mobile APP development
 * 🤝  I'm open to collaborating on interesting web-infra open source software
 
