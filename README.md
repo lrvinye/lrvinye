@@ -1,4 +1,4 @@
-Hi 👋 My name is Ricco Xie
+Hi 👋 Is me ! Ricco Xie
 ==========================
 
 Web Developer
@@ -17,7 +17,7 @@ My aim is to bring across your message and data in the most creative way.
 * 🌍  I'm based in China
 * 🖥️  See my home page at [Riccox](https://ricco.riccox.com)
 * ✉️  You can contact me at [ricco@riccox.com](mailto:ricco@riccox.com)
-* 🚀  I'm currently working on [My Riccox Lab](http://lab.riccox.com)
+* 🚀  I'm currently working on my own works in [Riccox Lab](http://lab.riccox.com)
 * 🧠  I'm learning cross-platform mobile APP development
 * 🤝  I'm open to collaborating on interesting web-infra open source software
 
