@@ -17,7 +17,7 @@ My aim is to bring across your message and data in the most creative way.
 * 🌍  I'm based in China
 * 🖥️  See my home page at [Riccox](https://ricco.riccox.com)
 * ✉️  You can contact me at [ricco@riccox.com](mailto:ricco@riccox.com)
-* 🚀  I'm currently working on my own works in [Riccox Lab](http://lab.riccox.com)
+* 🚀  I'm currently working on my own personal works
 * 🧠  I'm learning cross-platform mobile APP development
 * 🤝  I'm open to collaborating on interesting web-infra open source software
 
@@ -35,7 +35,7 @@ My GitHub Stats
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/riccox/meilisearch-ui" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=meilisearch-ui&theme=midnight-purple&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/riccoxlab/sira" align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=riccoxlab&repo=sira&theme=midnight-purple&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/sira-design/sira" align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=sira-design&repo=sira&theme=midnight-purple&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br />
 
