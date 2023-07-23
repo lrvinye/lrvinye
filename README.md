@@ -4,7 +4,7 @@ Hi 👋 Is me ! Ricco Xie
 Web Developer
 -------------
 
-I'm a Web Fullstack developer from Hunan, China, working in web development. 
+I'm a Web Fullstack developer from China, working in web development. 
 
 I enjoy turning complex problems into simple, beautiful and intuitive designs. 
 
