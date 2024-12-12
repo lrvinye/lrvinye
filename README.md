@@ -30,15 +30,6 @@ My GitHub Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccox&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-<a href="http://www.github.com/riccox"><img src="https://github-readme-streak-stats.herokuapp.com/?user=riccox&theme=midnight-purple" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/riccox/meilisearch-ui" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=riccox&repo=meilisearch-ui&theme=midnight-purple&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/sira-design/sira" align="left"><img align="left"  src="https://github-readme-stats.vercel.app/api/pin/?username=sira-design&repo=sira&theme=midnight-purple&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/riccoxie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
